@@ -1,1 +1,5 @@
-(function(){if(!window.$mcSite){$mcSite={};}})();
+(function () {
+  if (!window.$mcSite) {
+    $mcSite = {};
+  }
+})();
